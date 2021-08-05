@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Objects;
 
 import br.com.adryan.jupiter.model.PerfumeModel;
-import br.com.adryan.jupiter.model.saver.SalvaDados;
+import br.com.adryan.jupiter.saver.SalvaDados;
 
 @RestController
 @RequestMapping("/pm")
